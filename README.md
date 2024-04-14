@@ -34,11 +34,6 @@ I bring a strong track record of working on projects for top-tier clients, where
 
 ---
 
-### My GitHub Contributions
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sppant&show_icons=true)
-
----
-
 
 Feel free to browse through my repositories and reach out via email or LinkedIn for any inquiries you may have!
 
