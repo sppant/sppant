@@ -1,10 +1,10 @@
 # Hi, I'm Spyros 👋
 
-Senior WordPress Developer specializing in custom WordPress solutions, frontend development, and high-performance web experiences.
+Senior WordPress & Frontend Developer specializing in custom WordPress solutions, plugin development, modern frontend technologies, and high-performance web experiences.
 
 I have 10+ years of experience building custom WordPress websites, themes, plugins, Gutenberg blocks, and API-driven platforms for global brands and premium clients.
 
-My work focuses on WordPress architecture, frontend development, integrations, SEO, and performance optimization — from technical implementation and customization to deployment and ongoing maintenance.
+My work focuses on WordPress architecture, frontend development, integrations, SEO, performance optimization, and building practical tools that solve real-world problems.
 
 ---
 
@@ -16,7 +16,7 @@ I have developed solutions for global brands and premium clients, including:
 
 Developed a high-performance WordPress/Webflow training platform, building custom WordPress themes, responsive interfaces, and REST API integrations.
 
-Delivered critical production updates under strict deadlines while supporting thousands of active users.
+Delivered production updates under strict deadlines while supporting a large-scale user base.
 
 ### Adidas Parley Sustainability Portal
 
@@ -24,7 +24,60 @@ Built a custom WordPress theme and integrated backend APIs for dynamic content f
 
 ### Premium Real Estate Platforms
 
-Develop and customize high-end luxury real estate WordPress websites, implementing custom frontend solutions, modern UI/UX principles, and performance optimizations.
+Develop and customize luxury real estate WordPress websites, implementing custom frontend solutions, modern UI/UX principles, API integrations, SEO improvements, and performance optimizations.
+
+---
+
+## Featured Projects
+
+### AI Visibility Checker
+
+A WordPress plugin that audits websites for AI search readiness by analyzing structured data, content quality, technical SEO, and trust signals.
+
+Features:
+
+- AI Visibility Score
+- Structured data detection
+- Content quality analysis
+- Technical SEO checks
+- Trust signal evaluation
+- Actionable recommendations
+- Client-ready HTML audit reports
+
+Built with:
+
+- PHP
+- WordPress Plugin API
+- JavaScript
+- WordPress Admin UI
+
+Repository:
+
+https://github.com/sppant/ai-visibility-checker
+
+---
+
+### WP Dev Tools
+
+A lightweight WordPress developer utility plugin focused on diagnostics, performance insights, and improving development workflows.
+
+Features:
+
+- Query monitoring
+- Page performance information
+- Developer-focused debugging tools
+- WordPress environment insights
+
+Built with:
+
+- PHP
+- WordPress Plugin API
+- Object-Oriented PHP
+- JavaScript
+
+Repository:
+
+https://github.com/sppant/wp-dev-tools
 
 ---
 
@@ -34,12 +87,13 @@ Develop and customize high-end luxury real estate WordPress websites, implementi
 
 - Custom WordPress Themes
 - Custom WordPress Plugins
-- Hooks & Filters
+- WordPress Hooks & Filters
 - Gutenberg Blocks
-- WordPress APIs / REST API
+- WordPress REST API
 - Advanced Custom Fields
 - WooCommerce
 - Performance Optimization
+- SEO Optimization
 
 ### Frontend Development
 
@@ -57,24 +111,7 @@ Develop and customize high-end luxury real estate WordPress websites, implementi
 - MySQL
 - Git
 - Webflow
-
----
-
-## Featured Project
-
-### WP Dev Tools
-
-A lightweight WordPress developer utility plugin focused on diagnostics, performance insights, and improving development workflows.
-
-Built with:
-
-- PHP
-- WordPress Plugin API
-- Object-Oriented PHP
-- JavaScript
-
-Repository:
-https://github.com/sppant/wp-dev-tools
+- API Integrations
 
 ---
 
@@ -82,6 +119,12 @@ https://github.com/sppant/wp-dev-tools
 
 **BSc (Hons) Computer Science**  
 University of Hertfordshire, UK
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sppant&show_icons=true)
 
 ---
 
