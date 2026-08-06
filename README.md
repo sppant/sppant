@@ -122,12 +122,6 @@ University of Hertfordshire, UK
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sppant&show_icons=true)
-
----
-
 ## Connect
 
 LinkedIn:  
