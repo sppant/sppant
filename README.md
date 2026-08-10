@@ -30,7 +30,7 @@ Develop and customize luxury real estate WordPress websites, implementing custom
 
 ## Featured Projects
 
-### AI Visibility Checker
+### AI Search Readiness Audit
 
 A WordPress plugin that audits websites for AI search readiness by analyzing structured data, content quality, technical SEO, and trust signals.
 
@@ -53,7 +53,7 @@ Built with:
 
 Repository:
 
-https://github.com/sppant/ai-visibility-checker
+[https://github.com/sppant/ai-visibility-checker](https://github.com/sppant/webxdevelop-ai-search-readiness-audit)
 
 ---
 
