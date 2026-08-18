@@ -1,10 +1,6 @@
 # Hi, I'm Spyros 👋
 
-Senior WordPress & Frontend Developer specializing in custom WordPress solutions, plugin development, modern frontend technologies, and high-performance web experiences.
-
-I have 10+ years of experience building custom WordPress websites, themes, plugins, Gutenberg blocks, and API-driven platforms for global brands and premium clients.
-
-My work focuses on WordPress architecture, frontend development, integrations, SEO, performance optimization, and building practical tools that solve real-world problems.
+Frontend Developer with 10+ years of professional web development experience building responsive, high- performance websites and web applications for global brands and agencies. Strong foundation in JavaScript, HTML, CSS, and WordPress, with hands-on experience building React frontends, reusable components, and integrating REST APIs with WordPress backends. Delivered production solutions for NVIDIA and Adidas Parley, with experience across React, WordPress, REST APIs, performance optimization, SEO, and modern frontend development.
 
 ---
 
