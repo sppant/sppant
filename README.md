@@ -26,6 +26,48 @@ Develop and customize luxury real estate WordPress websites, implementing custom
 
 ## Featured Projects
 
+### Website SEO Opportunity Analyzer
+
+A full-stack SEO analysis application that scans websites and identifies technical and on-page SEO opportunities.
+
+The application fetches and analyzes a target website, evaluates its SEO configuration, calculates an overall score, and provides prioritized recommendations for improvement.
+
+#### Features
+
+- SEO score out of 100
+- Page title and meta description analysis
+- H1 heading analysis
+- Canonical and language detection
+- HTTPS and viewport checks
+- Image and missing `alt` attribute analysis
+- `robots.txt` analysis
+- XML sitemap analysis
+- Open Graph and Twitter/X metadata checks
+- Prioritized SEO opportunities with score impact
+
+#### Built with
+
+- React
+- TypeScript
+- Node.js
+- Fastify
+- Cheerio
+- REST API
+- Vite
+
+#### Screenshots
+
+![SEO Score](https://raw.githubusercontent.com/sppant/website-analyzer/main/screenshots/score.png)
+
+![SEO Analysis](https://raw.githubusercontent.com/sppant/website-analyzer/main/screenshots/seo-analysis.png)
+
+![Biggest Opportunities](https://raw.githubusercontent.com/sppant/website-analyzer/main/screenshots/opportunities.png)
+
+Repository:  
+https://github.com/sppant/website-analyzer
+
+---
+
 ### AI Search Readiness Audit
 
 A WordPress plugin that audits websites for AI search readiness by analyzing structured data, content quality, technical SEO, and trust signals.
@@ -49,33 +91,7 @@ Built with:
 
 Repository:
 
-[https://github.com/sppant/ai-visibility-checker](https://github.com/sppant/webxdevelop-ai-search-readiness-audit)
-
----
-
-### WP Dev Tools
-
-A lightweight WordPress developer utility plugin focused on diagnostics, performance insights, and improving development workflows.
-
-Features:
-
-- Query monitoring
-- Page performance information
-- Developer-focused debugging tools
-- WordPress environment insights
-
-Built with:
-
-- PHP
-- WordPress Plugin API
-- Object-Oriented PHP
-- JavaScript
-
-Repository:
-
-https://github.com/sppant/wp-dev-tools
-
----
+https://github.com/sppant/webxdevelop-ai-search-readiness-audit
 
 ## Skills
 
