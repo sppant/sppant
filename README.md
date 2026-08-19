@@ -89,6 +89,10 @@ Built with:
 - JavaScript
 - WordPress Admin UI
 
+Link: 
+
+https://seo.webxdevelop.com/
+
 Repository:
 
 https://github.com/sppant/webxdevelop-ai-search-readiness-audit
