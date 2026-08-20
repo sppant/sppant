@@ -55,13 +55,8 @@ The application fetches and analyzes a target website, evaluates its SEO configu
 - REST API
 - Vite
 
-#### Screenshots
-
-![SEO Score](https://raw.githubusercontent.com/sppant/website-analyzer/main/screenshots/score.png)
-
-![SEO Analysis](https://raw.githubusercontent.com/sppant/website-analyzer/main/screenshots/seo-analysis.png)
-
-![Biggest Opportunities](https://raw.githubusercontent.com/sppant/website-analyzer/main/screenshots/opportunities.png)
+Link: 
+https://seo.webxdevelop.com/
 
 Repository:  
 https://github.com/sppant/website-analyzer
@@ -89,12 +84,9 @@ Built with:
 - JavaScript
 - WordPress Admin UI
 
-Link: 
 
-https://seo.webxdevelop.com/
 
 Repository:
-
 https://github.com/sppant/webxdevelop-ai-search-readiness-audit
 
 ## Skills
