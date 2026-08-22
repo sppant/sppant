@@ -28,38 +28,44 @@ Develop and customize luxury real estate WordPress websites, implementing custom
 
 ### Website SEO Opportunity Analyzer
 
-A full-stack SEO analysis application that scans websites and identifies technical and on-page SEO opportunities.
+A full-stack SEO analysis application that scans websites and identifies practical technical, on-page, and performance opportunities.
 
-The application fetches and analyzes a target website, evaluates its SEO configuration, calculates an overall score, and provides prioritized recommendations for improvement.
+The application fetches and analyzes a target website, evaluates its SEO configuration, analyzes PageSpeed performance and Core Web Vitals, calculates an overall SEO score, and provides prioritized recommendations for improvement.
 
 #### Features
 
-- SEO score out of 100
-- Page title and meta description analysis
-- H1 heading analysis
-- Canonical and language detection
-- HTTPS and viewport checks
-- Image and missing `alt` attribute analysis
-- `robots.txt` analysis
-- XML sitemap analysis
-- Open Graph and Twitter/X metadata checks
-- Prioritized SEO opportunities with score impact
+* SEO score out of 100
+* Page title and meta description analysis
+* H1 heading and canonical URL analysis
+* HTTPS, language, and viewport checks
+* Image and missing `alt` attribute analysis
+* Internal link analysis and anchor-text checks
+* `robots.txt` and XML sitemap analysis
+* Open Graph and Twitter/X metadata checks
+* Google PageSpeed performance analysis
+* Core Web Vitals including LCP, CLS, INP, FCP, and TTFB
+* Prioritized SEO opportunities with score impact
+* Actionable recommendations for detected issues
+* Rate limiting and protected outbound URL fetching
+* Automated tests with Vitest
 
 #### Built with
 
-- React
-- TypeScript
-- Node.js
-- Fastify
-- Cheerio
-- REST API
-- Vite
+* React
+* TypeScript
+* Node.js
+* Fastify
+* Cheerio
+* Vite
+* REST API
+* Vitest
 
-Link: 
+**Live Link:**
 https://seo.webxdevelop.com/
 
-Repository:  
+**Repository:**
 https://github.com/sppant/website-analyzer
+
 
 ---
 
