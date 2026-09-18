@@ -2,7 +2,6 @@
 
 Software Engineer specializing in React, TypeScript and Node.js. I build and ship production web products end to end.
 
-📍 Kavala, Greece, relocating to Munich
 🌐 [portfolio.webxdevelop.com](https://portfolio.webxdevelop.com)
 💼 [LinkedIn](https://linkedin.com/in/spyros-p-a12698138)
 
