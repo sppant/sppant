@@ -1,145 +1,47 @@
-# Hi, I'm Spyros 👋
+# Hi, I'm Spyros Pantopoulos 👋
 
-Frontend Developer with 10+ years of professional web development experience building responsive, high- performance websites and web applications for global brands and agencies. Strong foundation in JavaScript, HTML, CSS, and WordPress, with hands-on experience building React frontends, reusable components, and integrating REST APIs with WordPress backends. Delivered production solutions for NVIDIA and Adidas Parley, with experience across React, WordPress, REST APIs, performance optimization, SEO, and modern frontend development.
+Software Engineer specializing in React, TypeScript and Node.js. I build and ship production web products end to end.
 
----
-
-## Professional Experience
-
-I have developed solutions for global brands and premium clients, including:
-
-### NVIDIA Training Platform
-
-Developed a high-performance WordPress/Webflow training platform, building custom WordPress themes, responsive interfaces, and REST API integrations.
-
-Delivered production updates under strict deadlines while supporting a large-scale user base.
-
-### Adidas Parley Sustainability Portal
-
-Built a custom WordPress theme and integrated backend APIs for dynamic content feeds, user data, and sustainability features while optimizing frontend performance.
-
-### Premium Real Estate Platforms
-
-Develop and customize luxury real estate WordPress websites, implementing custom frontend solutions, modern UI/UX principles, API integrations, SEO improvements, and performance optimizations.
+📍 Kavala, Greece, relocating to Munich
+🌐 [portfolio.webxdevelop.com](https://portfolio.webxdevelop.com)
+💼 [LinkedIn](https://linkedin.com/in/spyros-p-a12698138)
 
 ---
 
-## Featured Projects
+## About
 
-### Website SEO Opportunity Analyzer
+I'm a Software Engineer with 3+ years focused on React and TypeScript, backed by 10 years of professional web development. Most recently, I architected and shipped a SaaS product solo, full stack, from database to deployment. Before that, I worked on frontend and backend integration for enterprise clients including NVIDIA and Adidas Parley.
 
-A full-stack SEO analysis application that scans websites and identifies practical technical, on-page, and performance opportunities.
-
-The application fetches and analyzes a target website, evaluates its SEO configuration, analyzes PageSpeed performance and Core Web Vitals, calculates an overall SEO score, and provides prioritized recommendations for improvement.
-
-#### Features
-
-* SEO score out of 100
-* Page title and meta description analysis
-* H1 heading and canonical URL analysis
-* HTTPS, language, and viewport checks
-* Image and missing `alt` attribute analysis
-* Internal link analysis and anchor-text checks
-* `robots.txt` and XML sitemap analysis
-* Open Graph and Twitter/X metadata checks
-* Google PageSpeed performance analysis
-* Core Web Vitals including LCP, CLS, INP, FCP, and TTFB
-* Prioritized SEO opportunities with score impact
-* Actionable recommendations for detected issues
-* Rate limiting and protected outbound URL fetching
-* Automated tests with Vitest
-
-#### Built with
-
-* React
-* TypeScript
-* Node.js
-* Fastify
-* Cheerio
-* Vite
-* REST API
-* Vitest
-
-**Live Link:**
-https://seo.webxdevelop.com/
-
-**Repository:**
-https://github.com/sppant/website-analyzer
-
+I use AI coding tools (Claude Code, Codex) daily to move faster. Architecture, data modeling, and code review are mine, the tools handle the typing.
 
 ---
 
-### AI Search Readiness Audit
+## What I work with
 
-A WordPress plugin that audits websites for AI search readiness by analyzing structured data, content quality, technical SEO, and trust signals.
+**Frontend:** React, TypeScript, JavaScript (ES6+), Next.js, Redux Toolkit, HTML5, CSS3
 
-Features:
+**Backend & data:** Node.js, Fastify, REST API design, authentication, Stripe billing, PostgreSQL, MySQL, Drizzle ORM
 
-- AI Visibility Score
-- Structured data detection
-- Content quality analysis
-- Technical SEO checks
-- Trust signal evaluation
-- Actionable recommendations
-- Client-ready HTML audit reports
+**Testing & tools:** Vitest, Playwright, Git, Vite, Docker
 
-Built with:
-
-- PHP
-- WordPress Plugin API
-- JavaScript
-- WordPress Admin UI
-
-
-
-Repository:
-https://github.com/sppant/webxdevelop-ai-search-readiness-audit
-
-## Skills
-
-### WordPress Development
-
-- Custom WordPress Themes
-- Custom WordPress Plugins
-- WordPress Hooks & Filters
-- Gutenberg Blocks
-- WordPress REST API
-- Advanced Custom Fields
-- WooCommerce
-- Performance Optimization
-- SEO Optimization
-
-### Frontend Development
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- jQuery
-- Tailwind CSS
-
-### Backend & Tools
-
-- PHP
-- MySQL
-- Git
-- Webflow
-- API Integrations
+**CMS:** WordPress (themes, plugins, Gutenberg, ACF, WooCommerce), PHP
 
 ---
 
-## Education
+## Featured projects
 
-**BSc (Hons) Computer Science**  
-University of Hertfordshire, UK
+### 🔍 SEO Analyzer SaaS
+Full-stack SaaS platform built solo with React, TypeScript, Fastify and PostgreSQL. Includes 20+ automated SEO checks, Argon2id authentication, Stripe subscription billing, and 250+ automated tests (Vitest, Playwright), deployed to production.
+🔗 [seo.webxdevelop.com](https://seo.webxdevelop.com) · 💻 [GitHub](https://github.com/sppant/website-analyzer)
+
+### 📧 Mailbox Converter
+Next.js app that converts Outlook PST/OST files to EML/MBOX entirely in-browser. Uses a Web Worker parser with IndexedDB streaming to handle multi-gigabyte files without a backend.
+🔗 [mailbox.webxdevelop.com](https://mailbox.webxdevelop.com)
 
 ---
 
-## Connect
+## Get in touch
 
-LinkedIn:  
-https://www.linkedin.com/in/spyros-p-a12698138/
-
-Email:  
-sp.pantopoulos@gmail.com
+📧 sp.pantopoulos@gmail.com
+💼 [linkedin.com/in/spyros-p-a12698138](https://linkedin.com/in/spyros-p-a12698138)
+🌐 [portfolio.webxdevelop.com](https://portfolio.webxdevelop.com)
